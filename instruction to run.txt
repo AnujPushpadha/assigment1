@@ -1,0 +1,3 @@
+clone the repo
+npi at front end part
+and also at backend part
